@@ -106,3 +106,179 @@ Cybersecurity
 Risk management
 
 Post-deployment monitoring
+
+
+
+## 1. Data Security (in BFSI)
+Data security refers to protecting sensitive financial, personal, and transactional data from unauthorized access, misuse, breaches, or leaks.
+Why BFSI cares:
+
+Banks and insurers handle:
+
+Customer KYC information
+
+Account/transaction data
+
+Credit history
+
+Payment details
+
+Financial statements
+
+So they must enforce:
+
+Encryption (at rest + in transit)
+
+Access control & authentication
+
+Network security
+
+Secure APIs
+
+Incident response systems
+
+Fraud detection systems
+
+It ensures confidentiality, integrity, and availability of financial data.
+
+## 2. Data Governance (in BFSI)
+
+Data governance is the overall management of data availability, usability, consistency, quality, and security across an organization.
+
+Why BFSI cares:
+
+Banks need:
+
+Consistent customer data
+
+Single source of truth
+
+Accuracy for credit scoring
+
+Auditability for regulators
+
+Clear data lineage (where data comes from + where it goes)
+
+Data governance includes:
+
+Data ownership
+
+Data standards
+
+Data quality rules
+
+Metadata management
+
+Data lifecycle management
+
+Strong governance helps prevent fraud, regulatory penalties, and bad decision-making.
+
+## 3. Model Risk Management (MRM)
+
+Banks use many models:
+
+Credit risk models
+
+Fraud detection models
+
+Capital adequacy (Basel) models
+
+Market risk models
+
+AI/ML models
+
+Model Risk Management ensures these models are accurate, fair, reliable, and not harmful.
+
+Key components:
+
+Model development documentation
+
+Model validation (independent team)
+
+Ongoing monitoring
+
+Stress testing
+
+Bias detection (for ML models)
+
+Version control + audit trail
+
+Regulatory frameworks:
+
+SR 11-7 (Federal Reserve — global gold standard for model risk)
+
+Basel III/IV requirements
+
+Banks must prove that models do what they are supposed to do, and do not expose the bank to financial or reputational risk.
+
+## 4. AI Compliance Frameworks (Relevant to BFSI)
+
+AI compliance ensures that artificial intelligence is:
+
+Ethical
+
+Transparent
+
+Explainable
+
+Fair
+
+Secure
+
+Private
+
+Auditable
+
+Major frameworks BFSI companies follow:
+✔ EU AI Act (2024)
+
+Classifies banking AI as “high-risk.”
+
+Requires documentation, transparency, risk controls.
+
+✔ NIST AI Risk Management Framework (US)
+
+Focuses on:
+
+Safety
+
+Security
+
+Explainability
+
+Bias reduction
+
+✔ RBI and SEBI AI/ML Guidelines (India)
+
+Banks must ensure:
+
+Explainability of models
+
+No discrimination in lending
+
+Strong customer data protection
+
+Audit trails for all AI decisions
+
+✔ ISO AI Standards
+
+ISO/IEC 42001 → AI Management System (AIMS)
+
+ISO 23894 → AI risk management
+
+ISO 27001 → Information security infrastructure
+
+✔ Responsible AI Principles used in BFSI
+
+Fairness
+
+Accountability
+
+Transparency
+
+Privacy
+
+Security
+
+Human oversight
+
