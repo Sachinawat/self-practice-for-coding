@@ -5,6 +5,6 @@ class Solution:
 # Example usage:
 if __name__ == "__main__":
     sol = Solution()
-    print(sol.add(2, 3))  # Output: 5
+    print(sol.add(2, 3)) 
 
 
